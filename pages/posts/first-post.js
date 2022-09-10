@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Head from 'next/head';
 import Layout from '../../components/layout';
-import styles from '../../components/layout.module.css';
+
 
 // import Script from 'next/script';
 
